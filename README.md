@@ -1,0 +1,2 @@
+# sports-hall-booking-system-using-service-portal-servicenow
+This project focuses on developing a comprehensive Sports Hall Booking System within the ServiceNow platform, leveraging the Service Portal as the primary user interface. The system will allow users to view available time slots for various sports halls, submit booking requests, and receive automated notifications regarding the status of their reque
