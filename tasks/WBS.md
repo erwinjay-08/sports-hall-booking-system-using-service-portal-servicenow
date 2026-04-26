@@ -37,14 +37,14 @@ Develop the Service Portal interface for users to browse available sports halls 
 - [x] **Implement Real-Time Availability Check** (done) — medium priority
 
 ### Reporting, Testing, and Documentation
-- **Status:** in_progress
+- **Status:** done
 - **Priority:** medium
 - **Due:** N/A
 
 Create reports and dashboards to track booking trends and resource utilization. Conduct thorough testing to ensure the system functions correctly. Document the project and its functionalities.
 
 #### Tasks
-- [ ] **Create Reports and Dashboards** (todo) — medium priority
-- [ ] **Conduct Testing** (todo) — medium priority
-- [ ] **Document Project** (todo) — medium priority
+- [x] **Create Reports and Dashboards** (done) — medium priority
+- [x] **Conduct Testing** (done) — medium priority
+- [x] **Document Project** (done) — medium priority
 
